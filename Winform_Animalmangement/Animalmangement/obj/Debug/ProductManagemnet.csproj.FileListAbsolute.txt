@@ -1,0 +1,46 @@
+F:\ProductManagemnet\ProductManagemnet\bin\Debug\ProductManagemnet.exe.config
+F:\ProductManagemnet\ProductManagemnet\bin\Debug\ProductManagemnet.exe
+F:\ProductManagemnet\ProductManagemnet\bin\Debug\ProductManagemnet.pdb
+F:\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.csproj.AssemblyReference.cache
+F:\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.csproj.SuggestedBindingRedirects.cache
+F:\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.ProductManagemnet.resources
+F:\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.Properties.Resources.resources
+F:\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.csproj.GenerateResource.cache
+F:\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.csproj.CoreCompileInputs.cache
+F:\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.exe
+F:\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.pdb
+C:\Users\hotma\Downloads\ProductManagemnet\ProductManagemnet\bin\Debug\ProductManagemnet.exe.config
+C:\Users\hotma\Downloads\ProductManagemnet\ProductManagemnet\bin\Debug\ProductManagemnet.exe
+C:\Users\hotma\Downloads\ProductManagemnet\ProductManagemnet\bin\Debug\ProductManagemnet.pdb
+C:\Users\hotma\Downloads\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.csproj.AssemblyReference.cache
+C:\Users\hotma\Downloads\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.csproj.SuggestedBindingRedirects.cache
+C:\Users\hotma\Downloads\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.ProductManagemnet.resources
+C:\Users\hotma\Downloads\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.Properties.Resources.resources
+C:\Users\hotma\Downloads\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.csproj.GenerateResource.cache
+C:\Users\hotma\Downloads\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.csproj.CoreCompileInputs.cache
+C:\Users\hotma\Downloads\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.exe
+C:\Users\hotma\Downloads\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.pdb
+C:\Users\This PC\Downloads\ProductManagemnet (1)\ProductManagemnet\ProductManagemnet\bin\Debug\ProductManagemnet.exe.config
+C:\Users\This PC\Downloads\ProductManagemnet (1)\ProductManagemnet\ProductManagemnet\bin\Debug\ProductManagemnet.exe
+C:\Users\This PC\Downloads\ProductManagemnet (1)\ProductManagemnet\ProductManagemnet\bin\Debug\ProductManagemnet.pdb
+C:\Users\This PC\Downloads\ProductManagemnet (1)\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.csproj.AssemblyReference.cache
+C:\Users\This PC\Downloads\ProductManagemnet (1)\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.csproj.SuggestedBindingRedirects.cache
+C:\Users\This PC\Downloads\ProductManagemnet (1)\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.Login.resources
+C:\Users\This PC\Downloads\ProductManagemnet (1)\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.Properties.Resources.resources
+C:\Users\This PC\Downloads\ProductManagemnet (1)\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.csproj.GenerateResource.cache
+C:\Users\This PC\Downloads\ProductManagemnet (1)\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.csproj.CoreCompileInputs.cache
+C:\Users\This PC\Downloads\ProductManagemnet (1)\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.exe
+C:\Users\This PC\Downloads\ProductManagemnet (1)\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.pdb
+C:\Users\This PC\Downloads\ProductManagemnet (1)\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.AnmialManagemnet.resources
+C:\Users\admin\Downloads\ProductManagemnet\ProductManagemnet\bin\Debug\ProductManagemnet.exe.config
+C:\Users\admin\Downloads\ProductManagemnet\ProductManagemnet\bin\Debug\ProductManagemnet.exe
+C:\Users\admin\Downloads\ProductManagemnet\ProductManagemnet\bin\Debug\ProductManagemnet.pdb
+C:\Users\admin\Downloads\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Downloads\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.AnmialManagemnet.resources
+C:\Users\admin\Downloads\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.Login.resources
+C:\Users\admin\Downloads\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.Properties.Resources.resources
+C:\Users\admin\Downloads\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.exe
+C:\Users\admin\Downloads\ProductManagemnet\ProductManagemnet\obj\Debug\ProductManagemnet.pdb
